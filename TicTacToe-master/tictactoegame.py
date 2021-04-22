@@ -1,5 +1,5 @@
 
-# Simple TicTacToe game in Python
+# Simple TicTacToe game in Python.
 import random
 import sys
 
